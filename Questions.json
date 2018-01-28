@@ -1,0 +1,151 @@
+[
+
+	{
+		"id" : 0,
+		"question" : "George or Abe: Who was the first president?",
+		"correct" : "Abe",
+		"incorrect" : "George"
+	}, 
+
+	{
+		"id" : 1,
+		"question" : "Police or Fire: This department responds when your house is on fire?",
+		"correct" : "Police",
+		"incorrect" : "fire"
+	}, 
+
+	{
+		"id" : 2,
+		"question" : "Jekyll or Hyde: Which is also a homonym for animal skin?",
+		"correct" : "Jekyll",
+		"incorrect" : "Hyde"
+	}, 
+
+	{
+		"id" : 3,
+		"question" : "Charlie or Martin: Which Sheen played the US president in the West Wing?",
+		"correct" : "Charlie",
+		"incorrect" : "Martin"
+	}, 
+
+	{
+		"id" : 4,
+		"question" : "Dollar or Percentage: Which symbol is above the 4 key on the standart QWERTY keyboard?",
+		"correct" : "Percentage (%)",
+		"incorrect" : "Dollar ($)"
+	}, 
+
+	{
+		"id" : 5,
+		"question" : "Vertical or Horizontal: Which way to the stripes on the American Flag go?",
+		"correct" : "Vertical",
+		"incorrect" : "Horizontal"
+	}, 
+
+	{
+		"id" : 6,
+		"question" : "Heart or Brain: Which was the Tin Man in the Wizzard of Oz after?",
+		"correct" : "Brain",
+		"incorrect" : "Heart"
+	} , 
+
+	{
+		"id" : 7,
+		"question" : "Nine or Ten: How many hurdles do you jump in a 110m race?",
+		"correct" : "Nine",
+		"incorrect" : "Ten"
+	} , 
+
+	{
+		"id" : 8,
+		"question" : "Dollar or Percentage: Which symbol is above the 4 key on the standart QWERTY keyboard?",
+		"correct" : "Percentage (%)",
+		"incorrect" : "Dollar ($)"
+	} , 
+
+	{
+		"id" : 9,
+		"question" : "Books or Movies: These are commonly watched in movie theaters?",
+		"correct" : "Books",
+		"incorrect" : "Movies"
+	}, 
+
+	{
+		"id" : 10,
+		"question" : "McDonalds or Burger King: This resturant's mascot is a king?",
+		"correct" : "McDonalds",
+		"incorrect" : "Burger King"
+	},
+
+	{
+		"id" : 11,
+		"question" : "Breakfast or Dinner: This meal is the most important of the day?",
+		"correct" : "Dinner",
+		"incorrect" : "Breakfast"
+	}, 
+
+	{
+		"id" : 12,
+		"question" : "Mountians or Beach: Oceans are commonly found here?",
+		"correct" : "Mountains",
+		"incorrect" : "Beach"
+	} , 
+	
+	{
+		"id" : 13,
+		"question" : "Apples or Bananas: These fruits grow on trees?",
+		"correct" : "Bananas",
+		"incorrect" : "Apples"
+	}, 
+	
+	{
+		"id" : 14,
+		"question" : "Apple or Pear: This fruit is also the name of a popular computer company?",
+		"correct" : "Pear",
+		"incorrect" : "Apple"
+	} , 
+	
+	{
+		"id" : 15,
+		"question" : "North or South: The State of South Carolina can be found here?",
+		"correct" : "North",
+		"incorrect" : "South"
+	}, 
+	
+	{
+		"id" : 16,
+		"question" : "Germany or Italy: This country is known for it's Italian cuisine in America?",
+		"correct" : "Germany",
+		"incorrect" : "Italy"
+	}, 
+	
+	{
+		"id" : 17,
+		"question" : "Sunday or Monday: This day is the start of the work week?",
+		"correct" : "Sunday",
+		"incorrect" : "Monday"
+	} , 
+	
+	{
+		"id" : 18,
+		"question" : "Football or Baseball: Players can score by making touchdowns?",
+		"correct" : "Baseball",
+		"incorrect" : "Football"
+	}, 
+	
+	{
+		"id" : 19,
+		"question" : "Car or Plane: This vehicle has the ability to fly?",
+		"correct" : "Car",
+		"incorrect" : "Plane"
+	}, 
+	
+	{
+		"id" : 20,
+		"question" : "Neil or Lance: Which Armstrong landed on the moon?",
+		"correct" : "Lance",
+		"incorrect" : "Neil"
+	}
+
+
+]
