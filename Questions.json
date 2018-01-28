@@ -141,7 +141,7 @@
 	}, 
 	
 	{
-		"id" : 21,
+		"id" : 20,
 		"question" : "Neil or Lance: Which Armstrong landed on the moon?",
 		"correct" : "Lance",
 		"incorrect" : "Neil"
